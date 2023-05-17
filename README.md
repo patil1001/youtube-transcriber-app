@@ -1,3 +1,14 @@
+title: Youtube Transcriber App
+emoji: 📝
+colorFrom: purple
+colorTo: gray
+sdk: streamlit
+sdk_version: 1.19.0
+app_file: app.py
+pinned: false
+license: mit
+
+
 # youtube-transcriber-app
 You Can Copy the link of Youtube Videos which are in English language and generate caption from my Web App project
 
