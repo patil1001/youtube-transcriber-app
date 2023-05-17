@@ -1,3 +1,4 @@
+---
 title: Youtube Transcriber App
 emoji: 📝
 colorFrom: purple
@@ -7,6 +8,7 @@ sdk_version: 1.19.0
 app_file: app.py
 pinned: false
 license: mit
+---
 
 
 # youtube-transcriber-app
